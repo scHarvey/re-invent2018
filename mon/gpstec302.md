@@ -14,19 +14,19 @@
 	- new tenant onboarding
 	    - bulk operations
 	- complex scaling profiles
-	- Seamless Tenant identitiy
-	    - binding users to tenant
-	    - efficient resolution of context
-	    - minimally invasive
-	    - best case: make multi-tenancy invisible to developers
-  - Variable data footprint
-	    - limiting storage bottlenecks
-	    - cross-tenant impact
-	    - cost optimization
-    - Operational agility
-        - small, repeatable deployments
-        - proactive metrics/monitoring
-        - tenant-level health/policy maagement
+- Seamless Tenant identitiy
+    - binding users to tenant
+    - efficient resolution of context
+    - minimally invasive
+    - best case: make multi-tenancy invisible to developers
+- Variable data footprint
+    - limiting storage bottlenecks
+    - cross-tenant impact
+    - cost optimization
+- Operational agility
+    - small, repeatable deployments
+    - proactive metrics/monitoring
+    - tenant-level health/policy maagement
 
 
 #### Multi-tenancy can vary at every layer
@@ -49,7 +49,7 @@
 
 #### The Patterns
 - The SaaS monolith
-- Microcervies SaaS with containers (pretty close to wellmark)
+- Microservices SaaS with containers (pretty close to wellmark)
 - Serverless SaaS (best option, for cost optimization due to only spinning up what's needed per function per tenant)
 
 
@@ -83,7 +83,7 @@
 
 #### onboarding patterns: the building blocks
 - signup (form/process)
-- user identity -> maped to -> tenant
+- user identity -mapped to-> tenant
 - provisioning & configuration
 - billing and account management
 
