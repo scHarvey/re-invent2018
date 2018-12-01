@@ -14,9 +14,9 @@ Notes from sessions I attended at re:invent 2018
 ### Wednesday
 - [ARC322 - Digital Transformation Playbook in Five Steps](./wed/arc322.md)
 - [DAT324 - Deep Dive on PostgreSQL Databases on Amazon RDS](./wed/dat324.md)
--[API305 - Choosing the Right Messaging Service for Your Distributed App](./wed/api305.md)
+- [API305 - Choosing the Right Messaging Service for Your Distributed App](./wed/api305.md)
 
 ### Thursday
 - [SRV372-R1 - [REPEAT 1] Build Web Apps with GraphQL, AWS AppSync, and AWS Lambda](./thr/svr372.md)
-- [GPSCT313 - Applying Digital Innovation to Rapid Prototyping](./thr/gpsct313.md)S
+- [GPSCT313 - Applying Digital Innovation to Rapid Prototyping](./thr/gpsct313.md)
 - [ARC335-R2 - [REPEAT 2] Failing Successfully in the Cloud: AWS Approach to Resilient Design](./thr/arc335.md)
