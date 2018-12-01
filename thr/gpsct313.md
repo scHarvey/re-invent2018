@@ -1,6 +1,6 @@
 ## GPSCT313 - Applying Digital Innovation to Rapid Prototyping
 
-####Don Southard - GM, R&D and Innovation, AWS
+#### Don Southard - GM, R&D and Innovation, AWS
 #### Andres Michel - Manager, Solutions Architecture, AWS
 
 ![  ](../images/20181129_143923.jpg)

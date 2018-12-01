@@ -87,12 +87,8 @@
 - provisioning & configuration
 - billing and account management
 
-
-
-
 - zero touch, volume onboarding
 - enterprise, low volume onboarding
-
 
 - delayed tenant detection (auth up front, but have service figure out tenant) introduces bottleneck at service level
 - upfront tenant detection changes auth process but provides user with tenant creds to pass to all future services for them to use to provide access to tenant resources.
@@ -109,9 +105,4 @@
 - SaaS architecture mush embrace variable consumption
 - Metrics and analytics are foundational to SaaS architecture
 - getting isolation right can be challenging
-    automation and agility are essential
-
-
-##### terms to search:
-- RBAC
-- GDPR
+- automation and agility are essential
