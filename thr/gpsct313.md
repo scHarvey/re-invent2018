@@ -10,9 +10,8 @@
 - Don's team partners with clients for 2-3 sprints to help power innovation **<-- see about getting a chat with Don**
 
 
-$$
-F(i) = Mechanisms * Architecture^{Culture*Organization}
-$$
+
+![F(i) = Mechanisms * Architecture^{Culture*Organization}](../images/__SVG__c6fbe49d69e3ac9c0f05a3d388b79eaa.png)
 
 ![  ](../images/20181129_144415.jpg)
 ![  ](../images/20181129_144652.jpg)
