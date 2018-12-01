@@ -9,7 +9,7 @@ Notes from sessions I attended at re:invent 2018
 ### Tuesday
 - [MOB318-R1 - Give REST a rest: Easily Migrate Your APIs to GraphQL](./tue/mob318.md)
 - [ARC304-R1 - [REPEAT 1] Architecture Patterns of Serverless Microservices](./tue/arc304.md)
--[DAT401 - Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB](./tue/dat401.md)
+- [DAT401 - Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB](./tue/dat401.md)
 
 ### Wednesday
 - [ARC322 - Digital Transformation Playbook in Five Steps](./wed/arc322.md)

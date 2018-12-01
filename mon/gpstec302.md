@@ -1,4 +1,4 @@
-#### GPSTEC302 - SaaS Reference Architectures: A Review of Real World Patterns and Strategies
+## GPSTEC302 - SaaS Reference Architectures: A Review of Real World Patterns and Strategies
 
 #### Tod Golding: Partner Solutions Architect with aws saas factory (todg@)
 
