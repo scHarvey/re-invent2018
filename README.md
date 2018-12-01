@@ -20,3 +20,6 @@ Notes from sessions I attended at re:invent 2018
 - [SRV372-R1 - [REPEAT 1] Build Web Apps with GraphQL, AWS AppSync, and AWS Lambda](./thr/svr372.md)
 - [GPSCT313 - Applying Digital Innovation to Rapid Prototyping](./thr/gpsct313.md)
 - [ARC335-R2 - [REPEAT 2] Failing Successfully in the Cloud: AWS Approach to Resilient Design](./thr/arc335.md)
+
+### Non-session photos
+[Google Photos Album](https://photos.app.goo.gl/uZ5LRH8eVLA5eWCTA)
