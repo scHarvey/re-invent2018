@@ -2,6 +2,7 @@
 
 #### Tod Golding: Partner Solutions Architect with aws saas factory (todg@)
 
+Stream: https://www.youtube.com/watch?v=O3L-dSyqA7g
 
 #### One Goal, Many Flavors: Silo, Bridge, Pool
 - Silo: Every Tenant has seperate resources
