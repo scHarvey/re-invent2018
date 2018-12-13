@@ -3,6 +3,10 @@
 #### Don Southard - GM, R&D and Innovation, AWS
 #### Andres Michel - Manager, Solutions Architecture, AWS
 
+##### Related Stream:
+- Rapid Innovation: The Business Case for Modern Application Development (SRV207) : https://www.youtube.com/watch?v=zVMK03xHQIQ
+- Accelerate Innovation & Maximize Business Value w/ Serverless Apps (SRV212-R1) : https://www.youtube.com/watch?v=XUkhubMFVZI
+
 ![  ](../images/20181129_143923.jpg)
 ![  ](../images/20181129_144118.jpg)
 
